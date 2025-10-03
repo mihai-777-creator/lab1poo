@@ -12,7 +12,7 @@ public class problema3 {
         }
 
         double Mg = Math.pow(p, 1.0 / n);
-        System.out.printf("%.2f", Mg);
+        System.out.printf("%.2f", Mg) ;
     }
 
 }
